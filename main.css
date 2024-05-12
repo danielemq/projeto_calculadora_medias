@@ -48,6 +48,10 @@ form input {
     padding: 8px;
 }
 
+#nota-atividade {
+    width: 85px;
+}
+
 form button {
     background-color: #009432;
     color: white;
